@@ -1,0 +1,37 @@
+<style>
+
+
+
+body {
+	width: 200px;
+	Height: 200px;
+	margin-right:20px;
+}
+
+body {
+	background-color: #777;
+}
+
+
+h2 {
+	color:red;
+}
+
+div {
+	width: 300px;
+	border: 25px solid white;
+	padding: 25px;
+	margin:25px;
+	content: #ebebeb;
+}
+
+footer {
+	width: 300px;
+	border: 25px solid white;
+	padding: 25px;
+	margin: 25px;
+	content: #ebebeb;
+}
+
+</style>
+
